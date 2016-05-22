@@ -1,0 +1,9 @@
+body {
+    background: #FFF!important;
+}
+
+.logo-admin {
+    width: 400px;
+    position: absolute;
+    margin-top: 90px; 
+}
